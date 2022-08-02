@@ -1,0 +1,86 @@
+Console of Mormon Game Text
+
+Welcome to the Book of Mormon, the Choose Your Own Adventure game!
+
+Select a character to begin:
+
+A) Nephi 
+B) Alma (UNAVAILABLE IN DEMO VERSION)
+C) Mormon (UNAVAILABLE IN DEMO VERSION)
+
+Nephi:
+
+It’s just a regular day in Jerusalem under Zedekiah’s reign. The sun beats down
+on your face as you carry out your daily chores at home. You’re Nephi, a boy
+braver and more mature than your young age would suggest. Sam, your brother,
+whistles wistfully as he helps you feed the animals. So many animals to feed makes
+for long work, but you think about how lucky you are to have such an amazing house
+and possessions in the big city of Jerusalem. Everyday you would wake up and
+sigh in relief, realizing that nothing had changed. Life is good.
+
+The sun begins to set, and you and Sam are just finishing scrubbing the outer walls
+of your clay house. “Go ahead inside and rest, Sam,” you offer your brother. “You’ve
+earned it. I’ll finish up here.” Sam cheerfully accepts your offer and heads inside.
+
+A few moments later, you look up to see a sillouhette in the distance staggering
+toward the house. You…
+
+A) Call out to the sillouhette
+B) Hide in the bushes and observe
+C) Walk towards the sillouhette
+
+A:
+
+“Who’s there?” you call in a loud voice. There’s an eerie pause. The figure enters
+the light of the lanterns hanging on the house walls and you recognize your father.
+His skin is pale like the driven snow, and he had a frightened expression. “It’s just
+me, Nephi,” he sighs as he staggers toward you. He looks like he's about
+to fall over.
+
+B:
+
+You run to the bushes and conceal yourself. Eventually the figure enters the light
+of the lanterns hanging on the house walls and you recognize your father.
+His skin is pale like the driven snow, and he had a frightened expression.
+You give a sigh of relieve and exit the bushes. “Father?” you call quietly, so as
+not to startle him.
+
+C:
+
+You walk toward the figure and eventually make out the features of your father’s
+face in the dim light. “Hello, Father!” you greet happily. It was always great when
+Father returned home. But something seems off this time. Lehi takes a couple
+staggered steps forward like he is about to fall over.
+
+“What’s wrong? Are you o-,“ suddenly he stumbles to the ground and you catch
+him in the knick of time. You carry him into the house and lay him on the bed.
+
+“Nephi…” he whispers weakly. “What is it, Father?” you reply, kneeling down to
+better hear his almost soundless voice. “This city is a city of wickedness. They
+are slow of understanding and hard of heart just as the Prophets have foretold.
+They do not remember Jehovah as their God. I fear for them, my son. I fear for
+thy brothers.” You think about your two older brothers, Laman and Lemuel.
+They aren’t as obedient as you and Sam, but you love and respect them
+ in only the way a younger brother would understand.
+
+Your father must have seen the glimmer of fear in your eyes. “Leave me, Nephi,”
+Lehi says with a smile and two gentle pats on your hands, which at that moment
+were tightly clutching your father’s. “I am well enough off.” You…
+
+A) Obey your father and leave the room.
+B) Refuse to leave and sleep on the ground next to his bed.
+
+A:
+
+You nod and leave the room quietly. You lie down in your bed and
+think about what you just saw. (Obedience +1) 
+
+B:
+
+You shake your head and lie down next to Lehi’s bed. (Charity +1)
+————————
+
+Soon night falls and you drift into sleep.
+
+…
+
