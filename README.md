@@ -1,4 +1,4 @@
-# console-of-mormon
+# Console of Mormon
 This is a simple text-based create-your-own adventure game based on the Book of Mormon.
 This serves as my Book of Mormon Project for REL A 275 in Summer Term of 2022.
 
