@@ -45,3 +45,11 @@ that flows through the decision tree. The one I have now is too statically linke
 easy to completely break. I also don't like that the player has to press enter each
 time he/she wants to submit a response. It doesn't seem like Java provides any method
 of instantly reading input by default, so I'll have to do some digging.
+
+## Video demo
+
+
+https://user-images.githubusercontent.com/62630455/182484288-35c02401-668a-4b2b-a452-1fbca71e6758.mov
+
+
+
